@@ -1,3 +1,25 @@
+body {
+  background-color: #46463a;
+}
+
 h1 {
   text-align: center;
+  color: #ffff99;
+}
+
+h2 {
+  color: #ffff99;
+}
+
+p {
+  color: #e0e0d1;
+  font-family: Arial;
+  font-size: 24px;
+}
+
+a {
+  color: #e0e0d1;
+  font-family: Arial;
+  font-size: 24px;
+  text-decoration: underline;
 }
