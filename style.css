@@ -1,14 +1,14 @@
 body {
-  background-color: #46463a;
+  background-color: #ffffff;
 }
 
 h1 {
   text-align: center;
-  color: #ffff99;
+  color: #CE973E;
 }
 
 h2 {
-  color: #ffff99;
+  color: ##4A4A4A;
 }
 
 p {
@@ -22,4 +22,8 @@ a {
   font-family: Arial;
   font-size: 24px;
   text-decoration: underline;
+}
+
+#projects {
+  background-color: #F3F3F3;
 }
