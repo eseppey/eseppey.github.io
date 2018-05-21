@@ -1,4 +1,34 @@
+.navbar {
+  width: 100%;
+  height: 70px;
+  text-align: right;
+  display: inline-block;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  word-spacing: 10px;
+}
 
+.navbar a {
+    color: #000;
+    text-decoration: none;
+}
+
+.navbar button {
+  width: 80px;
+  height: 35px;
+  background-color: #4584ed;
+  color: #fff;
+  border-style: solid;
+  font-weight: bold;
+  word-spacing: normal;
+  font-family: Arial, sans-serif;
+  border-radius: 5px;
+}
+
+.navbar li {
+  display: inline-block;
+    cursor: pointer;
+}
 
 .main {
   height: 800px;
@@ -46,41 +76,6 @@
   color: #f2f2f2;
 }
 
-.navbar {
-  width: 100%;
-  height: 70px;
-  text-align: right;
-  display: inline-block;
-  font-family: Arial, sans-serif;
-  font-size: 13px;
-  word-spacing: 10px;
-}
-
-.navbar a {
-    color: #000;
-    text-decoration: none;
-
-}
-
-.navbar button {
-  width: 80px;
-  height: 35px;
-  background-color: #4584ed;
-  color: #fff;
-  border-style: solid;
-  font-weight: bold;
-  word-spacing: normal;
-  font-family: Arial, sans-serif;
-  border-radius: 5px;
-
-}
-
-
-.navbar li {
-  display: inline-block;
-    cursor: pointer;
-}
-
 .footer {
   width: 100%;
   height: 60px;
@@ -100,15 +95,12 @@
     color: #737377;
     text-decoration: none;
     font-family: Arial, sans-serif;
-
 }
 
 .footer-left {
-
   float: left;
 }
 
 .footer-right {
-
   float: right;
 }
