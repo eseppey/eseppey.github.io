@@ -10,10 +10,11 @@ h2 {
   font-family: Helvetica, serif;
   font-size: 24px;
   text-transform: uppercase;
-  border-bottom: 10px solid #e0e0e0;
+  border-bottom: 10px solid #f2f2f2;
   border-bottom-right-radius: 25px;
   color: #4286f4;
   text-shadow: 1px 1px #000000;
+  background-color: #e0e0e0;
 }
 
 h3 {
@@ -21,7 +22,7 @@ h3 {
   font-size: 18px;
   background-color: #e0e0e0;
   text-transform: uppercase;
-  border-bottom: 10px solid #4286f4;
+  border-bottom: 10px solid #f2f2f2;
   border-bottom-right-radius: 25px;
   color: #4286f4;
   text-shadow: 1px 1px #000000;
